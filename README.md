@@ -36,12 +36,13 @@
 - Alunos:
   - Vinícius Kruchelski Gugelmin
 - Projetos:
-  - [Cursos PROUNI](https://github.com/viniciusgugelmin/data-science/tree/main/projects/cursos-prouni)
-    - [Dataset](https://brasil.io/dataset/cursos-prouni/cursos)
-    - [Dicionário de Dados](https://brasil.io/dataset/cursos-prouni/cursos)
-    - [Dataset limpo](https://brasil.io/dataset/cursos-prouni/cursos)
+  - [Cursos PROUNI](https://github.com/viniciusgugelmin/data-science-2/tree/master/projects/cursos-prouni)
+    - [Dataset](https://github.com/viniciusgugelmin/data-science-2/blob/master/projects/cursos-prouni/data/dataset.csv)
+    - [Dicionário de Dados](https://github.com/viniciusgugelmin/data-science-2/blob/master/projects/cursos-prouni/data/data_dictionary.txt)
+    - [Dataset limpo](https://github.com/viniciusgugelmin/data-science-2/blob/master/projects/cursos-prouni/data/dataset.csv)
     - [Notebook de Limpeza](https://brasil.io/dataset/cursos-prouni/cursos)
-    - [Referências](https://github.com/viniciusgugelmin/data-science/blob/main/projects/cursos-prouni/README.md)
+    - [Notebook de Aprendizado Não Supervisionado](https://brasil.io/dataset/cursos-prouni/cursos)
+    - [Referências](https://github.com/viniciusgugelmin/data-science/blob/master/projects/cursos-prouni/README.md)
 
 <a name="about-the-project"></a>
 
