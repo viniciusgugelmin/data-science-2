@@ -35,6 +35,13 @@
 - Turma: (BSI - Quarta Noite) - 2022/2
 - Alunos:
   - Vinícius Kruchelski Gugelmin
+- Projetos:
+  - [Cursos PROUNI](https://github.com/viniciusgugelmin/data-science/tree/main/projects/cursos-prouni)
+    - [Dataset](https://brasil.io/dataset/cursos-prouni/cursos)
+    - [Dicionário de Dados](https://brasil.io/dataset/cursos-prouni/cursos)
+    - [Dataset limpo](https://brasil.io/dataset/cursos-prouni/cursos)
+    - [Notebook de Limpeza](https://brasil.io/dataset/cursos-prouni/cursos)
+    - [Referências](https://github.com/viniciusgugelmin/data-science/blob/main/projects/cursos-prouni/README.md)
 
 <a name="about-the-project"></a>
 
@@ -42,11 +49,11 @@
 
 **(Portuguese)**
 
-Trabalho desenvolvido para a disciplina de Ciência de Dados, ministrada pela professora **Osmary Camila Bortoncello Glober** no curso de **Bacharelado de Sistemas de Informação** da **Universidade Positivo**.
+Trabalho desenvolvido para a disciplina de Ciência de Dados, ministrada pela professora **Osmary Camila Bortoncello Glober** no curso de **Bacharelado de Sistemas de Informação** da **Universidade Positivo**. O trabalho consiste na aplicação de técnicas de Ciência de Dados para o aprendizado não supervisionado.
 
 **(English)**
 
-Work developed for the Data Science discipline, taught by professor **Osmary Camila Bortoncello Glober** in the **Bachelor of Information Systems** course at **Positivo University**.
+Work developed for the Data Science discipline, taught by professor **Osmary Camila Bortoncello Glober** in the **Bachelor of Information Systems** course at **Positivo University**. The work consists of the application of Data Science techniques for unsupervised learning.
 
 <br>
 
