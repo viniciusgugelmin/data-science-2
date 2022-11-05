@@ -40,7 +40,7 @@
     - [Dataset](https://github.com/viniciusgugelmin/data-science-2/blob/master/projects/cursos-prouni/data/dataset.csv)
     - [Dicionário de Dados](https://github.com/viniciusgugelmin/data-science-2/blob/master/projects/cursos-prouni/data/data_dictionary.txt)
     - [Dataset limpo](https://github.com/viniciusgugelmin/data-science-2/blob/master/projects/cursos-prouni/data/dataset.csv)
-    - [Notebook de Limpeza](https://brasil.io/dataset/cursos-prouni/cursos)
+    - [Notebook de Limpeza](https://github.com/viniciusgugelmin/data-science-2/blob/master/projects/cursos-prouni/notebooks/cleaning.ipynb)
     - [Notebook de Aprendizado Não Supervisionado](https://brasil.io/dataset/cursos-prouni/cursos)
     - [Referências](https://github.com/viniciusgugelmin/data-science/blob/master/projects/cursos-prouni/README.md)
 
