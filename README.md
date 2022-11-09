@@ -39,9 +39,9 @@
   - [Cursos PROUNI](https://github.com/viniciusgugelmin/data-science-2/tree/master/projects/cursos-prouni)
     - [Dataset](https://github.com/viniciusgugelmin/data-science-2/blob/master/projects/cursos-prouni/data/dataset.csv)
     - [Dicionário de Dados](https://github.com/viniciusgugelmin/data-science-2/blob/master/projects/cursos-prouni/data/data_dictionary.txt)
-    - [Dataset limpo](https://github.com/viniciusgugelmin/data-science-2/blob/master/projects/cursos-prouni/data/dataset.csv)
+    - [Dataset limpo](https://github.com/viniciusgugelmin/data-science-2/blob/master/projects/cursos-prouni/data/dataset_clean.csv)
     - [Notebook de Limpeza](https://github.com/viniciusgugelmin/data-science-2/blob/master/projects/cursos-prouni/notebooks/cleaning.ipynb)
-    - [Notebook de Aprendizado Não Supervisionado](https://brasil.io/dataset/cursos-prouni/cursos)
+    - [Notebook de Aprendizado Não Supervisionado](https://github.com/viniciusgugelmin/data-science-2/blob/master/projects/cursos-prouni/notebooks/unsupervised_learning.ipynb)
     - [Referências](https://github.com/viniciusgugelmin/data-science/blob/master/projects/cursos-prouni/README.md)
 
 <a name="about-the-project"></a>
