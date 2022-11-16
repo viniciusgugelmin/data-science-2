@@ -86,6 +86,4 @@ Click here to see the commit/branch name standard
 
 Vinícius Kruchelski Gugelmin - vinigugelmin@gmail.com
 
-Lucas Rodrigues Leite
-
 Project Link: [https://github.com/viniciusgugelmin/data-science-2](https://github.com/viniciusgugelmin/data-science-2)
